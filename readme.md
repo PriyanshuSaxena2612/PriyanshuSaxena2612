@@ -67,5 +67,4 @@
 <p align="center">
 <a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://github-readme-stats.vercel.app/api?username=PriyanshuSaxena2612&show_icons=true&theme=buefy"/></a>
 <a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://activity-graph.herokuapp.com/graph?username=PriyanshuSaxena2612&theme=minimal"/></a>
-<img src="https://komarev.com/ghpvc/?username=PriyanshuSaxena2612"/>
 </p>
