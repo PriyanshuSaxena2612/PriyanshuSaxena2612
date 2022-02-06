@@ -23,8 +23,12 @@
     <a href="https://github.com/PriyanshuSaxena2612?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/PriyanshuSaxena2612?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PriyanshuSaxena2612/count.svg" />
+</p>
 
-## 🛠️ Tools <hr/>
+## 🛠️ Tools
 ### 👨‍💻 Programming languages
 <p>
   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
@@ -66,5 +70,4 @@
 <p align="center">
 <a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://github-readme-stats.vercel.app/api?username=PriyanshuSaxena2612&show_icons=true&theme=buefy"/></a>
 <a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://activity-graph.herokuapp.com/graph?username=PriyanshuSaxena2612&theme=minimal"/></a>
-<img src="https://komarev.com/ghpvc/?username=PriyanshuSaxena2612"/>
 </p>
